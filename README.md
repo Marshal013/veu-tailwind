@@ -1,3 +1,5 @@
+Muhammad Marshal Assalam
+muhmmadmarshalassalam@gmail.com
 # Technical Test Frontend Hara Anargya
 
 ## Installation
